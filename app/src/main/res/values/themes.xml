@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme — used by Activity before Compose takes over -->
+    <style name="Theme.OceanFresh" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Edge to edge: status/nav bars transparent -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
